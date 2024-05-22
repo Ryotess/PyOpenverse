@@ -2,8 +2,8 @@
 
 import requests
 from requests.exceptions import HTTPError
-from config import OPENVERSE_URL, FUNCTION_URLS
-from auth import AuthManager
+from pyopenverse.config import OPENVERSE_URL, FUNCTION_URLS
+from pyopenverse.auth import AuthManager
 
 
 class PyOpenverse:

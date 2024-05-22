@@ -5,7 +5,7 @@ from requests.exceptions import HTTPError
 from datetime import datetime, timedelta
 from dotenv import load_dotenv, set_key
 import os
-from config import OPENVERSE_URL, FUNCTION_URLS, ENV_FILE
+from pyopenverse.config import OPENVERSE_URL, FUNCTION_URLS, ENV_FILE
 
 
 class AuthManager:

@@ -92,12 +92,28 @@ You can follow the [sample code](https://github.com/Ryotess/ChatGen/blob/main/sa
 <!-- USAGE EXAMPLES -->
 ## Usage
 ### Setup
+#### How to use this package in your own project?
+You can directly copy the folder pyopenverse to your project, here is an example structure design:
+
+```
+.
+└── your-project/
+    ├── your_custom_module/
+    │   ├── your_function_1.py
+    │   └── your_function_2.py
+    ├── PyOpenverse/   <--- Copy & Paste the entire pyopenverse folder here.
+    │   ├── auth.py
+    │   ├── config.py
+    │   └── engine.py
+    └── your_main.py
+```
+#### Set Credential
 If you already have a credential of Openverse API, please put your credential into an ```.env``` file with keys ```OPENVERSE_CLIENT_ID``` and ```OPENVERSE_CLIENT_SECRET``` before the following instruction  
 ### Get Credentials (Optional)
 If you don't have a credential of Openverse API, we provide an function for you to get your own API's id and secret key.
 ```sh
 # import packages and create a pyopenverse engine
-from openverse import PyOpenverse
+from pyopenverse.engine import PyOpenverse
 
 openverse = PyOpenverse()
 # Register for API access if not already registered
@@ -110,7 +126,7 @@ This method creates a credential for you(and also create a ```.env``` file in th
 ### Create a PyOpenverse Engine
 ```sh
 # import packages and create a pyopenverse engine
-from openverse import PyOpenverse
+from pyopenverse.engine import PyOpenverse
 
 openverse = PyOpenverse()
 ```
@@ -172,7 +188,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 E-Mail: jessforwork2023@gmail.com
 
-Project Link: [https://github.com/Ryotess/ChatGen](https://github.com/Ryotess/ChatGen)
+Project Link: [https://github.com/Ryotess/ChatGen](https://github.com/Ryotess/PyOpenverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
