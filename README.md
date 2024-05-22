@@ -1,5 +1,3 @@
-# PyOpenverse
-A Python image search engine base on Openverse
 
 
 <a name="readme-top"></a>
