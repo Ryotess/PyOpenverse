@@ -186,7 +186,7 @@ Distributed under the Apache 2.0 License. See `LICENSE.txt` for more information
 
 E-Mail: jessforwork2023@gmail.com
 
-Project Link: [https://github.com/Ryotess/ChatGen](https://github.com/Ryotess/PyOpenverse)
+Project Link: [https://github.com/Ryotess/PyOpenverse](https://github.com/Ryotess/PyOpenverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

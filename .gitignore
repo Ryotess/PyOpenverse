@@ -1,0 +1,12 @@
+# Ignore Python cache directories
+__pycache__/
+**/__pycache__/
+
+# Ignore other files and directories you don't want to track
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.DS_Store
+.vscode/
+.env
