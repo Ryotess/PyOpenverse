@@ -18,7 +18,7 @@ A Python image search engine base on Openverse
 <h3 align="center">PyOpenverse-- A Python image/audio search engine base on Openverse</h3>
 
   <p align="center">
-  This is a un-official Python package built with Openverse API, currently we only provide image search api in this beta version. The audio search api will be updated in near future.
+  This is an un-official Python package built with Openverse API, currently we only provide image search api in this beta version. The audio search api will be updated in near future.
     <br />
     <a href="https://github.com/Ryotess/PyOpenverse"><strong>Explore the docs »</strong></a>
     <br />
