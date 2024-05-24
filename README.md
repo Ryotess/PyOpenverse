@@ -85,7 +85,7 @@ Please follow the instructions to install and set up the environment for this pr
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Quick Start
-You can follow the [sample code](https://github.com/Ryotess/ChatGen/blob/main/sample_code.ipynb) to get the sample usage of this package.
+You can follow the [sample code](https://github.com/Ryotess/PyOpenverse/blob/main/sample_code.ipynb) to get the sample usage of this package.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
